@@ -3,6 +3,9 @@
 
 Turn **ChatGPT exports** into an **interactive Obsidian vault** with semantic tags and links — and **share it on GitHub**.
 
+<img width="2048" height="1591" alt="image" src="https://github.com/user-attachments/assets/13bc6415-b636-454f-83b6-4c727665d64c" />
+
+
 > Portuguese guide included in `docs/Guia-PT.md`. This repo is designed to be **beginner-friendly** with or without prior Git knowledge.
 
 ## Features
