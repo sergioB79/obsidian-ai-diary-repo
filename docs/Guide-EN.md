@@ -13,4 +13,3 @@ This repository turns ChatGPT exports into an Obsidian vault with semantic tags 
 ## Tips
 - Use `sentence-transformers` (paraphrase-multilingual-MiniLM-L12-v2) for multilingual tagging.
 - If Obsidian indexing is slow: remove `temp_extract`, split by year, temporarily disable heavy plugins.
-- Share on GitHub with **GitHub Desktop** or the **Obsidian Git** plugin.
