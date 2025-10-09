@@ -1,0 +1,14 @@
+{
+  "filosofia": ["meaning of life", "truth", "existence", "ethics", "collapse", "sovereignty", "identity", "post-system", "freedom"],
+  "trading": ["forex", "markets", "risk management", "price action", "strategy", "xauusd", "eurusd", "funded accounts", "mt5", "automation"],
+  "espiritualidade": ["faith", "god", "spiritual", "religion", "Nazare", "energy", "pilgrimage", "mysticism", "divinity", "nature"],
+  "arte": ["poetry", "painting", "music", "literature", "cinema", "creative writing", "aesthetics", "symbolism", "metaphor", "performance"],
+  "sociedade": ["society", "culture", "politics", "portugal", "community", "collapse", "power", "propaganda", "justice", "freedom of speech"],
+  "ia": ["artificial intelligence", "machine learning", "chatgpt", "technology", "automation", "agents", "prompt engineering", "digital ethics", "data sovereignty"],
+  "programacao": ["python", "javascript", "code", "api", "automation", "flask", "nextjs", "github", "webhook", "integration"],
+  "diario": ["personal reflection", "journal", "day", "feelings", "life", "inner monologue", "memory", "self-awareness", "growth"],
+  "educacao": ["learning", "study", "school", "teacher", "course", "knowledge", "curiosity", "child development", "methodology"],
+  "projetos": ["website", "book", "app", "game", "design", "mvp", "strategy", "brand", "manifesto", "publication"],
+  "saude": ["body", "nutrition", "training", "physiotherapy", "sleep", "discipline", "supplements", "energy balance"],
+  "comunidade": ["bairro", "local commerce", "activism", "semente crua", "city", "public space", "neighbourhood", "citizenship"]
+}
