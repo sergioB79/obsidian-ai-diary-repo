@@ -37,10 +37,6 @@ Turn **ChatGPT exports** into an **interactive Obsidian vault** with semantic ta
    python scripts/clean_sediment_md.py
    ```
 
-## Share on GitHub (simple path)
-- Use **GitHub Desktop** → “Add existing repository” → choose this folder → “Publish repository”.  
-- Or use **Obsidian Git** plugin with “Auto-commit on close”.  
-
 ## Folders
 ```
 /scripts   # python scripts + topics.json
