@@ -1,7 +1,7 @@
 
 # Obsidian AI Diary — from ChatGPT to a Live, Shareable Vault
 
-Turn **ChatGPT exports** into an **interactive Obsidian vault** with semantic tags and links — and **share it on GitHub**.
+Turn **ChatGPT exports** into an **interactive Obsidian vault** with semantic tags and links.
 
 <img width="2048" height="1591" alt="image" src="https://github.com/user-attachments/assets/13bc6415-b636-454f-83b6-4c727665d64c" />
 
